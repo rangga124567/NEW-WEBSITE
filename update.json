@@ -1,0 +1,48 @@
+{
+    "loader":{
+        "version": "1.0"
+    },
+    "announce_ttl": {
+        "name": "Welcome to FLUİD-LOADER, click here to join our telegram channel for more announcement"
+    },
+    "weather32": {
+        "typeWeather": "Clear"
+    },
+    "status32bit":{
+        "name": "Safe"
+    },
+    "status64bit": {
+        "name": "Safe"
+    },
+    "plugin": {
+        "version": "1.0.0",
+        "url": "https://fluidmod.ml/key/assets/apk/plugin.apk"
+    },
+    "plugin64": {
+        "version": "1.0.0",
+        "url": "https://fluidmod.ml/key/assets/apk/plugin64.apk"
+    },
+    "ismaintenance": {
+        "version": "",
+        "name": "false"
+    },
+    "libpg32NativeArm_v8a.so": {
+        "version": "1.0.0",
+        "url": "https://fluidmod.ml/key/assets/loaderv7a/arm8/liblibpg-lib"
+    },
+    
+    "libpg32NativeArm_v7a.so": {
+        "version": "1.0.0",
+        "url": "https://fluidmod.ml/key/assets/loaderv7a/arm7/liblibpg-lib"
+    },
+    "libpg64NativeArm_v8a.so": {
+        "version": "1.0.0",
+        "url": "https://fluidmod.ml/key/assets/loaderv8a/arm8/liblibpg64-lib"
+    },
+   "libpg64NativeArm_v7a.so": {
+        "version": "1.0.0",
+        "url": "https://fluidmod.ml/key/assets/loaderv8/arm8/liblibpg64-lib"
+    }
+    
+    
+}
